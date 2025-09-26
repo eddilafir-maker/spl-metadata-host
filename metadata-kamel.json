@@ -1,0 +1,19 @@
+{
+  "name": "kamel",
+  "symbol": "kml",
+  "description": "Token créé avec Mini-AMM.",
+  "image": "https://raw.githubusercontent.com/solana-labs/public-assets/master/solana-logo/solana-logo.png",
+  "attributes": [
+    { "trait_type": "Category", "value": "Fungible Token" },
+    { "trait_type": "Project", "value": "Mini-AMM" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/solana-labs/public-assets/master/solana-logo/solana-logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
